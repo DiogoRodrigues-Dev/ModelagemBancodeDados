@@ -108,7 +108,7 @@ Arquivo contendo três comandos DELETE, sempre respeitando integridade referenci
 O DER foi revisado e ajustado para atender às formas normais 1FN, 2FN e 3FN.  
 Inclui relacionamentos, cardinalidades e chaves.
 
-> *(Inserir aqui a imagem do DER final do projeto)*
+> <img width="742" height="542" alt="DG2" src="https://github.com/user-attachments/assets/ffa99694-618c-439d-9b64-926bae3d332d" />
 
 ---
 
